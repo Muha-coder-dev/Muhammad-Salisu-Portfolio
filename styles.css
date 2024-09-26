@@ -317,7 +317,7 @@ footer > h1 {
 /* media queries */
 /* for mobile dispaly */
 /* HEADER & Hero-section responsiveness */
-@media (max-width: 414px) {
+@media (max-width: 400px) {
   .nav-items {
     width: 100%;
   }

@@ -359,12 +359,12 @@ footer {
   }
 
   .desc h1 {
-    font-size: 20px;
+    font-size: 40px;
   }
   .desc p {
     font-size: 11px;
   }
-  .skills h1 {
+  .skills {
     font-size: 40px;
   }
   .work-topic h1 {
